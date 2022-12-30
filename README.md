@@ -1,6 +1,6 @@
 # Reverse-engineering-of-missile-launcher-Truck.
 # Abstract
-A unique approach to design a 3D model of missile launcher toy truck (figure 1.1) using 3d
+A unique approach to design a 3D model of missile launcher toy truck (figure) using 3d
 experience software. The process begins with the reverse engineering of the physical model (missile
 launcher toy truck). Reverse-engineering is the act of dismantling an object to see how it works. It is done
 mostly to examine and learn how something works, but it is also frequently used to reproduce or improve
